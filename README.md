@@ -1,8 +1,8 @@
 # Multiview-GPU
 
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+GPU-accelerated multiview clustering and dimensionality reduction thanks to Tensorflow.
+
+Based on [multiview](https://pypi.org/project/multiview/).
 
 # Dependedencies
 For building:
